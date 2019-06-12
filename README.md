@@ -1,4 +1,4 @@
-# lab5
+# lab5 FAQ
 
 Q: I’m seeing two small dots in my waveform, above y = 0, centered around amplitude peaks. Is this something I need to fix?
     
